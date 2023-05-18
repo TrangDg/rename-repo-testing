@@ -4,5 +4,5 @@
 
 layout: home
 redirect_from:
-	- https://trangdg.github.io/rename-testing
+	- /rename-testing
 ---
