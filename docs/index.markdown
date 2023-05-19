@@ -3,6 +3,4 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-redirect_from:
-	- /rename-testing
 ---
